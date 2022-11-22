@@ -1,0 +1,12 @@
+{
+  "name": "ethers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zy19900820/ethers.git",
+  "author": "water <11663929+water20221@user.noreply.gitee.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
+  }
+}
